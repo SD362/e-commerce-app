@@ -1,13 +1,15 @@
 import './App.css'
+import SearchBar from './componencts/Molecules/SearchBar'
+import Header from './componencts/Organisms/Header'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
-      
+      <div className='app-container'>
+        <Header/>
+      </div>
     </>
   )
 }
 
-export default App
+export default App;
