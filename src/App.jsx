@@ -1,5 +1,6 @@
 import './App.css'
 import SearchBar from './componencts/Molecules/SearchBar'
+import Footer from './componencts/Organisms/Footer';
 import Header from './componencts/Organisms/Header'
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
       <div className='app-container'>
         <Header/>
+        <Footer/>
       </div>
     </>
   )
