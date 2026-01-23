@@ -11,6 +11,5 @@ html, body, #root{
 }
 
 .content{
-  flex: 1;
-  
+  flex: 1; 
 }
