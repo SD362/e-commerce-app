@@ -1,3 +1,4 @@
+import { Button } from 'react-bootstrap';
 import './App.css'
 import SearchBar from './componencts/Molecules/SearchBar'
 import Footer from './componencts/Organisms/Footer';
