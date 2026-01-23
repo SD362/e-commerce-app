@@ -3,7 +3,7 @@ import Button from '../Atoms/Button';
 
 const HeroSection = () => {
     return (
-        <div className="position-relative overflow-hidden" style={{ background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)', minHeight: '550px' }}>
+        <div className="position-relative overflow-hidden" style={{ background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)', minHeight: '500px' }}>
             <div className="container">
                 <div className="row align-items-center min-vh-50">
                     <div className="col-lg-6 text-white py-5">
